@@ -81,7 +81,7 @@ header button:is(:hover, :focus-visible) {
 main {
   width: 100%;
   height: calc(100vh - 160px);
-  background-image: url("https://images.unsplash.com/photo-1543286386-2e659306cd6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTQwNDF8MHwxfHNlYXJjaHwxMnx8YnVzaW5lc3MlMjBhbmFseXNpc3xlbnwwfHx8fDE3MDQ0NzQxNDF8MA&ixlib=rb-4.0.3&q=80&w=1080");
+  background-image: url("https://images.unsplash.com/photo-1460925895917-afdab827c52f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NTQwNDF8MHwxfHNlYXJjaHwyOXx8YnVzaW5lc3N8ZW58MHx8fHwxNzA1ODYyNTQzfDA&ixlib=rb-4.0.3&q=80&w=1080");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -100,7 +100,8 @@ h1 {
   font-size: 11vmin;
   text-align: center;
   font-weight: 600;
-  color: #000;
+  color: #4a4a4a;
+  text-shadow: 2px 2px 4px 1px #23232320;
 }
 
 footer {
